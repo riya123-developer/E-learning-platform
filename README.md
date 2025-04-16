@@ -12,7 +12,7 @@
 
 *Mentor Name*: Neela Santhosh
 
-*Description of Task: In this project, we will build a E-learning platform website with 6 pages using HTML, CSS. The website will have a modern and user-friendly design, making it easy for users to navigate and find the information they need.
+*Description of Task*: In this project, we will build a E-learning platform website with 6 pages using HTML, CSS. The website will have a modern and user-friendly design, making it easy for users to navigate and find the information they need.
 
 Pages:
 1. Home Page
