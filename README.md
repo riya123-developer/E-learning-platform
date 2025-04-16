@@ -12,6 +12,21 @@
 
 *Mentor Name*: Neela Santhosh
 
+*Description of Task: In this project, we will build a E-learning platform website with 6 pages using HTML, CSS. The website will have a modern and user-friendly design, making it easy for users to navigate and find the information they need.
+
+Pages:
+1. Home Page
+2. About Page
+3. Blog Page
+4. Course Page:
+5. Student Dashboard Page
+6. Contact Us Page
+
+Technologies Used:
+- HTML: Used to create the structure and content of the website.
+- CSS: Used to style and layout the website, making it responsive and visually appealing.
+
+
 #  Output Of The Task
 ![Image](https://github.com/user-attachments/assets/98fd406b-4cd7-4337-b009-66e51ddf08bd)
 ![Image](https://github.com/user-attachments/assets/cc817336-1a21-4153-8ede-00328abdc45f)
